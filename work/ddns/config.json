@@ -1,0 +1,21 @@
+{
+    "cloudflare": [
+      {
+        "authentication": {
+          "api_token": "uqYtMwoKcERbwwPksDnkS7VIAkZd6WliwR3PEie_"
+        },
+        "zone_id": "656793c8e1e3f4f2015430172db2abdf",
+        "subdomains": [
+          {
+            "name": "pc.work",
+            "proxied": true
+          }
+        ]
+      }
+    ],
+    "a": true,
+    "purgeUnknownRecords": false,
+    "ttl": 120,
+    "interface":"eno1",
+    "prefix":"10"
+  }
